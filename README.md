@@ -1,570 +1,336 @@
-👋 Hi, I’m Muktipati Pati
+👋 Muktipati Pati
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;9%2B+Years+in+Software+Engineering;React+%7C+TypeScript+%7C+Node.js;Frontend+%7C+Full+Stack+Engineering;Exploring+AI+%2B+Developer+Productivity" alt="Typing SVG" />
-</p>
-<p align="center">
-  <a href="https://github.com/muktipati">
-    <img src="https://img.shields.io/badge/GitHub-muktipati-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muktipati/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+Senior Software Engineer
+
+React.js · TypeScript · Node.js · MongoDB · AI
+
+9+ years building web applications and enterprise software.
+
+I enjoy working on frontend architecture, reusable components, backend APIs, automation and developer productivity.
+
+Frontend ──► Backend ──► Enterprise ──► AI
+  React       Node.js       Banking       LLMs
+  TypeScript  Express       CRM            Automation
+
+Build. Learn. Debug. Automate.
 
 ⸻
 
-🧑‍💻 $ whoami
+$ whoami
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Muktipati Pati                                              │
-│  Senior Software Engineer                                    │
-│                                                              │
-│  Experience      9+ years                                    │
-│  Primary Focus   React.js / TypeScript                       │
-│  Backend         Node.js / Express.js / MongoDB              │
-│  Architecture    Components / Microfrontends / APIs          │
-│  Testing         Jest / Playwright                            │
-│  Enterprise      Banking / CRM / Content Platforms            │
-│  Exploring       AI / System Design / Cloud                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+const muktipati = {
+  role: "Senior Software Engineer",
+  experience: "9+ years",
+  frontend: [
+    "React.js",
+    "TypeScript",
+    "JavaScript",
+    "Redux / Redux Toolkit",
+    "Next.js",
+    "Angular"
+  ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+  architecture: [
+    "Reusable Components",
+    "Shared Components",
+    "Microfrontends",
+    "Frontend Architecture"
+  ],
+  testing: [
+    "Jest",
+    "Playwright",
+    "Automation"
+  ],
+  enterprise: [
+    "Banking",
+    "CRM",
+    "Content Platforms"
+  ],
+  ai: [
+    "LLM-assisted development",
+    "Claude",
+    "AI developer workflows"
+  ]
+};
 
-I’m a Senior Software Engineer with 9+ years of experience building web applications and enterprise software.
+⸻
 
-My primary expertise is React.js, JavaScript and TypeScript, with hands-on experience in Node.js, Express.js and MongoDB.
+$ git log --oneline --journey
 
-Over the years, my GitHub experiments have followed a similar path to my engineering journey:
+My GitHub repositories reflect how my engineering journey evolved over the years.
 
-Angular
-   ↓
-Angular + TypeScript
-   ↓
-Node.js
-   ↓
-Full Stack Applications
-   ↓
-React
+2018  ── Angular + TypeScript
+          │
+2019  ── React + Node.js
+          │
+2020  ── React Applications
+          │
+2021  ── Node.js + Frontend Experiments
+          │
+2022  ── Reusable Components
+          │
+2023  ── Shared Components
+          │
+2024  ── HOCs + Microfrontends
+          │
+2025  ── Enterprise Engineering
+          │
+2026  ── Automation + AI-assisted Development
+
+From building applications → to thinking about architecture → to improving how applications are built.
+
+⸻
+
+🧩 $ engineering_philosophy
+
+Good UI
    ↓
 Reusable Components
    ↓
-Microfrontends
+Clean Architecture
    ↓
-Frontend Architecture
+Reliable APIs
    ↓
-Testing & Automation
+Automated Testing
    ↓
-Enterprise Engineering
+Faster Development
    ↓
-AI-assisted Development
+Better Developer Experience
 
-I enjoy understanding how things work under the hood, experimenting with different approaches and turning those experiments into practical engineering knowledge.
+I don’t just want code that works.
+
+I like understanding why it works, how it can scale, how it can be reused, and how we can make the next change easier.
 
 ⸻
 
-🧭 $ git log --oneline --journey
+⚛️ $ react_lab
 
-My GitHub repositories are not just random projects.
+Some of the repositories that represent my React journey:
 
-They represent different stages of my learning and engineering journey.
+Repository	Focus
+react	React fundamentals and experimentation
+ReactBurger	React application
+MyburgerApp	React application
+reacttamplate	React project/template
+HOC	Higher Order Components
+shared-react-component-example	Shared React components
+commoncomponent	Reusable/common components
+microfrontend	Microfrontend architecture
+javascript_interview	JavaScript concepts & interview preparation
 
-2018 — 🌱 Foundations
-
-Started experimenting with Angular, TypeScript and frontend development.
-
-angular5
-Eshop
-training
-form_repeat
-ecommerce
-node-angular
-
-These projects helped build the foundation around:
-
-* Angular
-* TypeScript
-* Forms
-* Components
-* REST/API integration
-* Node.js
-* Full-stack development
+🔗 Explore them from my GitHub repositories.
 
 ⸻
 
-2019 — ⚛️ React Begins
+🟦 $ angular_and_typescript
 
-Started exploring React and building applications from scratch.
-
-ReactBurger
-MyburgerApp
-countdown
-react
-
-This became an important transition toward modern frontend engineering.
+Before React became a major part of my journey, I spent time building with Angular and TypeScript.
 
 Angular
+   +
+TypeScript
    ↓
-React
+Component-based UI
    ↓
-Component-based architecture
+Reusable patterns
+   ↓
+Full-stack applications
+
+Some of those early repositories:
+
+* angular5
+* node-angular
+* ecommerce
+* Eshop
+* form_repeat
+
+These projects are a reminder that every senior engineer started somewhere.
 
 ⸻
 
-2020–2022 — ⚙️ Full Stack & Experimentation
+🟢 $ node_backend
 
-Continued exploring React, Node.js and application architecture.
+My backend journey grew alongside frontend development.
 
-node_crash
-nodecrash
-widget_demo
-ibmTask
+Node.js
+   ↓
+Express.js
+   ↓
+REST APIs
+   ↓
+MongoDB
+   ↓
+Full-stack applications
 
-The focus shifted from simply building applications to understanding how different pieces work together.
+Repositories such as:
 
-⸻
+* nodecrash
+* node_crash
+* node-angular
+* ecommerce
 
-2023 — 🧩 Reusable Architecture
+represent different stages of that journey.
 
-Started focusing more on reusable frontend architecture.
-
-reacttamplate
-commoncomponent
-shared-react-component-example
-
-The question became:
-
-“How can we build components once and reuse them across applications?”
-
-This naturally led toward shared component architecture and frontend scalability.
+Today my backend experience includes Node.js, Express.js, MongoDB and API development, alongside frontend engineering.
 
 ⸻
 
-2024 — 🚀 Advanced Frontend Concepts
+🧱 $ architecture
 
-The recent repositories show a stronger focus on frontend architecture and interview-level concepts.
+One thing that changed as I gained experience:
 
-HOC
-javascript_interview
-microfrontend
+Earlier: “How do I build this feature?”
 
-Topics explored include:
+Later: “How should we design this so the next 10 features are easier?”
 
+That shift led me toward:
+
+* Reusable components
 * Higher Order Components
-* JavaScript concepts
-* React architecture
+* Shared React components
 * Microfrontends
-* Shared components
-* Frontend design patterns
-* Interview problem solving
+* Frontend architecture
+* API design
+* Testing and automation
 
 ⸻
 
-🧠 $ cat engineering-philosophy.md
+🧪 $ quality_check
 
-01. Understand before implementing
+Modern development isn’t only about writing code.
 
-Requirement
-     ↓
-Understand
-     ↓
-Question
-     ↓
-Design
-     ↓
-Implement
-     ↓
-Test
-     ↓
-Improve
+It’s also about making sure the code keeps working.
 
-Writing code is only one part of engineering.
+Development
+    ↓
+Unit Testing ──► Jest
+    ↓
+Automation ────► Playwright
+    ↓
+Debugging
+    ↓
+Continuous Improvement
 
-Understanding why the code is needed is equally important.
+I’m particularly interested in making testing and automation part of the development workflow rather than treating them as an afterthought.
 
 ⸻
 
-02. Build → Break → Learn
+🤖 $ ai --developer-mode
 
-Many of my repositories started as experiments.
+AI has become another tool in my engineering workflow.
 
-That’s intentional.
+I use LLM-assisted development to improve things such as:
 
-Idea
- ↓
-Prototype
- ↓
-Something breaks
- ↓
-Debug
- ↓
-Understand
- ↓
-Improve
-
-Sometimes the best learning happens when the code doesn’t work.
-
-⸻
-
-03. Reusability matters
-
-From common components to shared React components and microfrontends, one recurring question has been:
-
-Can this be built once and reused effectively?
-
-Good abstractions can reduce duplication and make large applications easier to maintain.
-
-⸻
-
-04. Debugging is a skill
-
-When something doesn’t work, I try not to immediately rewrite it.
-
-Reproduce
-   ↓
-Observe
-   ↓
-Ask WHY?
-   ↓
-Find Root Cause
-   ↓
-Fix
-   ↓
-Prevent Regression
-
-⸻
-
-05. AI should amplify engineering
-
-I’m increasingly exploring AI as part of the development workflow.
-
-Not just:
-
-“Write this code.”
-
-But:
-
-Understand a problem
+Understand unfamiliar code
         ↓
-Explore possible solutions
+Debug problems
         ↓
-Investigate unfamiliar code
+Explore solutions
         ↓
-Generate test ideas
+Generate / improve code
         ↓
-Debug
+Write tests
         ↓
 Automate repetitive work
         ↓
-Learn
+Learn faster
 
-AI is becoming another tool in the engineering toolbox.
+Tools such as Claude and other AI-assisted development workflows have changed how I approach everyday engineering.
+
+The goal isn’t:
+
+“Let AI write everything.”
+
+It’s:
+
+“Use AI to make a good engineer more productive.”
 
 ⸻
 
-🛠️ $ ./tech-stack
+🧠 $ currently_learning
+
+React Architecture       ████████████████████
+Node.js / Backend        ████████████████
+System Design            ████████████
+Testing / Automation     ███████████████
+Cloud / DevOps           █████████
+AI Engineering           █████████████
+
+Currently exploring deeper into:
+
+* Advanced React architecture
+* Node.js backend design
+* System design
+* AI-assisted development
+* LLM application patterns
+* Automation
+* Cloud & DevOps
+* Scalable frontend architecture
+
+⸻
+
+📚 $ repositories
+
+A few areas you’ll find across my GitHub:
 
 Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-</p>
-
-React · TypeScript · JavaScript · Redux · Angular · HTML · CSS
-
-⸻
-
-Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
-</p>
-
-Node.js · Express.js · MongoDB · REST APIs · SQL
-
-⸻
-
+├── React
+├── Angular
+├── TypeScript
+├── JavaScript
+└── UI Components
 Architecture
+├── HOCs
+├── Shared Components
+└── Microfrontends
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+└── MongoDB
+Engineering
+├── JavaScript Interview Concepts
+├── Testing
+├── Automation
+└── Experiments
 
-Component Architecture
-Reusable Components
-Higher Order Components
-Shared Components
-Microfrontends
-REST APIs
-Frontend / Backend Integration
-
-⸻
-
-Testing & Automation
-
-Jest
-Playwright
-Unit Testing
-UI Automation
-Regression Testing
+👉 View all repositories →
 
 ⸻
 
-Enterprise Technologies
-
-Contentful
-Keycloak
-Jenkins
-Docker
-OpenShift
-Git
+📈 $ developer_stats
 
 ⸻
 
-AI
-
-AI-assisted Development
-LLMs
-Claude
-Prompt Engineering
-AI-powered Workflows
-Developer Productivity
+🐍 $ contribution_activity
 
 ⸻
 
-🚀 $ ls -la ./repositories
+$ connect
 
-Instead of hiding my older repositories, I see them as a record of how my engineering journey evolved.
+┌──────────────────────────────────────────────┐
+│                                              │
+│  Building → Learning → Debugging → Sharing   │
+│                                              │
+│  React • Node • Architecture • AI           │
+│                                              │
+└──────────────────────────────────────────────┘
 
-🟦 Angular & TypeScript
+I’m always interested in conversations around:
 
-Repository	Focus
-angular5	Angular / TypeScript
-Eshop	E-commerce / TypeScript
-form_repeat	Forms / TypeScript
-training	Learning / experimentation
-
-⸻
-
-🟩 Full Stack
-
-Repository	Focus
-ecommerce	Node.js + Angular
-node-angular	Node.js + Angular / TypeScript
-node_crash	Node.js experimentation
-nodecrash	Node.js experimentation
+React · Frontend Architecture · Node.js · System Design · AI · Developer Productivity
 
 ⸻
 
-⚛️ React
+$ exit
 
-Repository	Focus
-ReactBurger	React application
-MyburgerApp	React application
-react	React experimentation
-reacttamplate	React template
-
-⸻
-
-🧩 Reusable Components
-
-Repository	Focus
-commoncomponent	Common React components
-shared-react-component-example	Shared React components
-HOC	Higher Order Components
-
-⸻
-
-🏗️ Frontend Architecture
-
-Repository	Focus
-microfrontend	Microfrontend architecture
-widget_demo	Widget-based UI
-javascript_interview	JavaScript / interview concepts
-
-⸻
-
-🧪 Other Experiments
-
-Repository	Focus
-countdown	HTML / JavaScript
-ibmTask	Development task
-muktiReact92	Private React project
-
-⸻
-
-🔬 $ ./what-i-like-to-explore
-
-Some of the topics that keep showing up in my projects and learning:
-
-┌─────────────────────────────────────────┐
-│                                         │
-│  ⚛️ React Architecture                   │
-│  🧩 Reusable Components                 │
-│  🏗️ Microfrontends                      │
-│  🟦 JavaScript / TypeScript              │
-│  🟢 Node.js                              │
-│  🗄️ MongoDB / SQL                        │
-│  🧪 Testing & Automation                 │
-│  ⚡ Web Performance                      │
-│  🤖 AI-assisted Development              │
-│  🏛️ System Design                       │
-│                                         │
-└─────────────────────────────────────────┘
-
-⸻
-
-🤖 $ ./ai-lab
-
-My current engineering direction is moving beyond traditional frontend development.
-
-I’m exploring how AI can work together with:
-
-React
- +
-Node.js
- +
-Enterprise Systems
- +
-Automation
- +
-LLMs
-
-Potential areas I’m interested in:
-
-* AI-assisted development
-* Developer productivity
-* Automated debugging
-* Test generation
-* Code understanding
-* Documentation
-* Enterprise AI applications
-* AI-powered developer tools
-
-The goal:
-
-Use AI to reduce repetitive engineering work and spend more time solving meaningful problems.
-
-⸻
-
-🧪 $ ./recent-focus
-
-My recent learning and experimentation has increasingly moved toward:
-
-Advanced React
-       +
-JavaScript Internals
-       +
-Frontend Architecture
-       +
-Microfrontends
-       +
-Node.js
-       +
-Testing / Automation
-       +
-AI
-
-The repository history reflects this progression — from early Angular projects to React architecture and microfrontend experiments.
-
-⸻
-
-📚 $ ./learning-radar
-
-Area	Direction
-⚛️ React	Advanced patterns & performance
-🟦 TypeScript	Advanced typing & architecture
-🟢 Node.js	Backend architecture
-🏗️ System Design	Scalable applications
-🤖 AI	LLMs & AI applications
-🐍 Python	AI & automation
-☁️ AWS	Cloud fundamentals
-🗄️ SQL	Data modelling & optimisation
-🍃 MongoDB	Indexing & performance
-🐳 Docker	Containers & deployment
-
-⸻
-
-📊 $ ./github-stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muktipati&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktipati&layout=compact&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muktipati&hide_border=true" height="170"/>
-</p>
-
-⸻
-
-🐍 $ ./contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
-⸻
-
-🎯 $ ./next
-
-CURRENT
-────────────────────────────────────
-React
-Node.js
-TypeScript
-Enterprise Engineering
-AI-assisted Development
-NEXT
-────────────────────────────────────
-→ Advanced System Design
-→ AI / LLM Integration
-→ Python
-→ AWS
-→ Developer Automation
-→ Open Source
-
-⸻
-
-💭 $ cat ./developer-notes.txt
-
-"Don't just make the code work.
- Understand why it works."
-"Every difficult bug is an opportunity
- to understand the system better."
-"Reusable code is good.
- Reusable understanding is better."
-"AI can write code.
- Engineers still need to understand it."
-"Keep learning.
- Keep experimenting.
- Keep building."
-
-⸻
-
-📫 $ ./connect
-
-<p align="center">
-<a href="https://github.com/muktipati">
-<img src="https://img.shields.io/badge/GitHub-muktipati-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/muktipati/">
-<img src="https://img.shields.io/badge/LinkedIn-Muktipati%20Pati-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:muktipati1111@gmail.com">
-<img src="https://img.shields.io/badge/Email-muktipati1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
-⸻
-
-<p align="center">
-
-⚡ Build. Learn. Debug. Automate. Repeat.
-
-Thanks for visiting my profile!
-
-</p>
+$ keep_learning
+$ keep_building
+$ keep_debugging
+$ keep_automating
+> Process finished with exit code 0 🚀
