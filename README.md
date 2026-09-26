@@ -1,336 +1,308 @@
-👋 Muktipati Pati
+<div align="center">
+
+👋 Hey, I’m Muktipati Pati
 
 Senior Software Engineer
 
 React.js · TypeScript · Node.js · MongoDB · AI
 
-9+ years building web applications and enterprise software.
+Building scalable frontend experiences, reusable components, backend APIs and developer-focused solutions.
 
-I enjoy working on frontend architecture, reusable components, backend APIs, automation and developer productivity.
-
-Frontend ──► Backend ──► Enterprise ──► AI
-  React       Node.js       Banking       LLMs
-  TypeScript  Express       CRM            Automation
-
-Build. Learn. Debug. Automate.
-
-⸻
-
-$ whoami
-
-const muktipati = {
-  role: "Senior Software Engineer",
-  experience: "9+ years",
-  frontend: [
-    "React.js",
-    "TypeScript",
-    "JavaScript",
-    "Redux / Redux Toolkit",
-    "Next.js",
-    "Angular"
-  ],
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "REST APIs"
-  ],
-  architecture: [
-    "Reusable Components",
-    "Shared Components",
-    "Microfrontends",
-    "Frontend Architecture"
-  ],
-  testing: [
-    "Jest",
-    "Playwright",
-    "Automation"
-  ],
-  enterprise: [
-    "Banking",
-    "CRM",
-    "Content Platforms"
-  ],
-  ai: [
-    "LLM-assisted development",
-    "Claude",
-    "AI developer workflows"
-  ]
-};
+<br/>
+<a href="https://github.com/muktipati">
+<img src="https://img.shields.io/badge/GitHub-muktipati-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
 
 ⸻
 
-$ git log --oneline --journey
+<div align="center">
 
-My GitHub repositories reflect how my engineering journey evolved over the years.
+⚡ 9+ Years   ·   ⚛️ React   ·   🟢 Node.js   ·   🤖 AI
 
-2018  ── Angular + TypeScript
+</div>
+
+⸻
+
+🧑‍💻 About Me
+
+I’m a Senior Software Engineer with 9+ years of experience building web applications and enterprise software.
+
+My journey started with Angular + TypeScript, evolved into React + Node.js, and gradually moved toward frontend architecture, reusable components, microfrontends, testing, automation and AI-assisted development.
+
+I enjoy solving problems where good engineering meets practical product requirements.
+
+                     MY ENGINEERING JOURNEY
+ Angular / TypeScript
           │
-2019  ── React + Node.js
+          ▼
+    React / JavaScript
           │
-2020  ── React Applications
+          ▼
+    Node.js / MongoDB
           │
-2021  ── Node.js + Frontend Experiments
+          ▼
+ Reusable Components
           │
-2022  ── Reusable Components
+          ▼
+   Microfrontends
           │
-2023  ── Shared Components
+          ▼
+ Testing & Automation
           │
-2024  ── HOCs + Microfrontends
-          │
-2025  ── Enterprise Engineering
-          │
-2026  ── Automation + AI-assisted Development
-
-From building applications → to thinking about architecture → to improving how applications are built.
+          ▼
+ AI-assisted Development
 
 ⸻
 
-🧩 $ engineering_philosophy
-
-Good UI
-   ↓
-Reusable Components
-   ↓
-Clean Architecture
-   ↓
-Reliable APIs
-   ↓
-Automated Testing
-   ↓
-Faster Development
-   ↓
-Better Developer Experience
-
-I don’t just want code that works.
-
-I like understanding why it works, how it can scale, how it can be reused, and how we can make the next change easier.
-
-⸻
-
-⚛️ $ react_lab
-
-Some of the repositories that represent my React journey:
-
-Repository	Focus
-react	React fundamentals and experimentation
-ReactBurger	React application
-MyburgerApp	React application
-reacttamplate	React project/template
-HOC	Higher Order Components
-shared-react-component-example	Shared React components
-commoncomponent	Reusable/common components
-microfrontend	Microfrontend architecture
-javascript_interview	JavaScript concepts & interview preparation
-
-🔗 Explore them from my GitHub repositories.
-
-⸻
-
-🟦 $ angular_and_typescript
-
-Before React became a major part of my journey, I spent time building with Angular and TypeScript.
-
-Angular
-   +
-TypeScript
-   ↓
-Component-based UI
-   ↓
-Reusable patterns
-   ↓
-Full-stack applications
-
-Some of those early repositories:
-
-* angular5
-* node-angular
-* ecommerce
-* Eshop
-* form_repeat
-
-These projects are a reminder that every senior engineer started somewhere.
-
-⸻
-
-🟢 $ node_backend
-
-My backend journey grew alongside frontend development.
-
-Node.js
-   ↓
-Express.js
-   ↓
-REST APIs
-   ↓
-MongoDB
-   ↓
-Full-stack applications
-
-Repositories such as:
-
-* nodecrash
-* node_crash
-* node-angular
-* ecommerce
-
-represent different stages of that journey.
-
-Today my backend experience includes Node.js, Express.js, MongoDB and API development, alongside frontend engineering.
-
-⸻
-
-🧱 $ architecture
-
-One thing that changed as I gained experience:
-
-Earlier: “How do I build this feature?”
-
-Later: “How should we design this so the next 10 features are easier?”
-
-That shift led me toward:
-
-* Reusable components
-* Higher Order Components
-* Shared React components
-* Microfrontends
-* Frontend architecture
-* API design
-* Testing and automation
-
-⸻
-
-🧪 $ quality_check
-
-Modern development isn’t only about writing code.
-
-It’s also about making sure the code keeps working.
-
-Development
-    ↓
-Unit Testing ──► Jest
-    ↓
-Automation ────► Playwright
-    ↓
-Debugging
-    ↓
-Continuous Improvement
-
-I’m particularly interested in making testing and automation part of the development workflow rather than treating them as an afterthought.
-
-⸻
-
-🤖 $ ai --developer-mode
-
-AI has become another tool in my engineering workflow.
-
-I use LLM-assisted development to improve things such as:
-
-Understand unfamiliar code
-        ↓
-Debug problems
-        ↓
-Explore solutions
-        ↓
-Generate / improve code
-        ↓
-Write tests
-        ↓
-Automate repetitive work
-        ↓
-Learn faster
-
-Tools such as Claude and other AI-assisted development workflows have changed how I approach everyday engineering.
-
-The goal isn’t:
-
-“Let AI write everything.”
-
-It’s:
-
-“Use AI to make a good engineer more productive.”
-
-⸻
-
-🧠 $ currently_learning
-
-React Architecture       ████████████████████
-Node.js / Backend        ████████████████
-System Design            ████████████
-Testing / Automation     ███████████████
-Cloud / DevOps           █████████
-AI Engineering           █████████████
-
-Currently exploring deeper into:
-
-* Advanced React architecture
-* Node.js backend design
-* System design
-* AI-assisted development
-* LLM application patterns
-* Automation
-* Cloud & DevOps
-* Scalable frontend architecture
-
-⸻
-
-📚 $ repositories
-
-A few areas you’ll find across my GitHub:
+🧰 Tech Stack
 
 Frontend
-├── React
-├── Angular
-├── TypeScript
-├── JavaScript
-└── UI Components
-Architecture
-├── HOCs
-├── Shared Components
-└── Microfrontends
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
 Backend
-├── Node.js
-├── Express.js
-├── REST APIs
-└── MongoDB
-Engineering
-├── JavaScript Interview Concepts
-├── Testing
-├── Automation
-└── Experiments
 
-👉 View all repositories →
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
 
-⸻
+Testing & Engineering
 
-📈 $ developer_stats
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
 
-⸻
+Exploring
 
-🐍 $ contribution_activity
-
-⸻
-
-$ connect
-
-┌──────────────────────────────────────────────┐
-│                                              │
-│  Building → Learning → Debugging → Sharing   │
-│                                              │
-│  React • Node • Architecture • AI           │
-│                                              │
-└──────────────────────────────────────────────┘
-
-I’m always interested in conversations around:
-
-React · Frontend Architecture · Node.js · System Design · AI · Developer Productivity
+<p>
+<img src="https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Workflows-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ⸻
 
-$ exit
+🚀 What I Like Building
 
-$ keep_learning
-$ keep_building
-$ keep_debugging
-$ keep_automating
-> Process finished with exit code 0 🚀
+<div align="center">
+
+⚛️ Frontend	🧩 Architecture	🟢 Backend	🧪 Quality
+React	Reusable Components	Node.js	Jest
+TypeScript	Shared Components	Express	Playwright
+Redux	Microfrontends	MongoDB	Automation
+Next.js	Scalable UI	REST APIs	Debugging
+
+</div>
+
+⸻
+
+📂 My GitHub Journey
+
+Instead of treating my repositories as random projects, I see them as a timeline of what I was learning and building.
+
+🟦 Angular → TypeScript
+
+angular5 · Eshop · form_repeat · node-angular
+
+My early journey around Angular, TypeScript and component-based application development.
+
+⸻
+
+⚛️ React
+
+react · ReactBurger · MyburgerApp · reacttamplate
+
+Moving deeper into React and modern frontend development.
+
+⸻
+
+🧩 Reusable Components
+
+HOC · commoncomponent · shared-react-component-example
+
+Exploring an important question:
+
+How much of our UI can we build once and reuse everywhere?
+
+⸻
+
+🏗️ Microfrontends
+
+microfrontend
+
+Moving from individual applications toward frontend architecture and independently developed UI systems.
+
+⸻
+
+🟢 Node.js & Full Stack
+
+nodecrash · node_crash · ecommerce · node-angular
+
+Exploring the backend side of the application:
+
+APIs → Node.js → Express → MongoDB → Full Stack
+
+⸻
+
+🧠 JavaScript
+
+javascript_interview
+
+A collection around JavaScript concepts and interview preparation.
+
+⸻
+
+<div align="center">
+
+🔎 Explore all repositories →
+
+</div>
+
+⸻
+
+🤖 AI × Engineering
+
+AI is now another tool in my development workflow.
+
+I’m interested in using AI for developer productivity, rather than simply generating code.
+
+        ┌─────────────────┐
+        │    Developer    │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │       AI        │
+        └────────┬────────┘
+                 │
+       ┌─────────┼─────────┐
+       ▼         ▼         ▼
+    Debug      Explore    Test
+       │         │         │
+       └─────────┼─────────┘
+                 ▼
+          Better Workflow
+
+Currently exploring:
+
+* AI-assisted coding
+* LLM workflows
+* AI-powered developer tools
+* Automation
+* Faster debugging
+* Test generation
+* Developer productivity
+
+⸻
+
+🧠 Engineering Mindset
+
+<div align="center">
+
+Don't just make it work.
+
+Understand why it works.
+
+Make the next change easier.
+
+Automate what doesn't need a human.
+
+</div>
+
+⸻
+
+🔭 Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+⚛️
+
+React Architecture
+
+</td>
+<td align="center" width="25%">
+
+🟢
+
+Node.js
+
+</td>
+<td align="center" width="25%">
+
+🏗️
+
+System Design
+
+</td>
+<td align="center" width="25%">
+
+🤖
+
+AI Engineering
+
+</td>
+</tr>
+</table>
+
+⸻
+
+📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muktipati&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktipati&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muktipati&hide_border=true&theme=transparent"/>
+</div>
+
+⸻
+
+🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/muktipati/muktipati/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</div>
+
+⸻
+
+🤝 Let’s Connect
+
+<div align="center">
+
+I’m always interested in conversations around
+
+React · Node.js · Frontend Architecture · System Design · AI
+
+<br/>
+<a href="https://github.com/muktipati">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+⭐ Build   ·   Learn   ·   Debug   ·   Automate
+
+</div>
